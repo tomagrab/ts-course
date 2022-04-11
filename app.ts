@@ -1,6 +1,6 @@
 const person = {
-  name: "Tommy for your Mommy",
+  fName: "Tommy",
   age: 23,
 };
 
-console.log(person.name);
+console.log(person.fName);
